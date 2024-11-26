@@ -35,7 +35,9 @@ This repository is designed for beginners to explore programming by solving prac
 
 ---
 
-## Project List
+## Projects
+
+### Project List
 
 Here’s a summary of all the projects with their descriptions, difficulty levels, estimated time, and key concepts:
 
@@ -78,6 +80,52 @@ Here’s a summary of all the projects with their descriptions, difficulty level
 | Currency Converter        | Convert between different currencies using fixed exchange rates.                  | Medium               | 1 hour             | Arithmetic, User Input              |
 
 _This isn't the end_.
+
+### Folder Structure
+
+Each project is organized in its own folder and follows this structure:
+
+```
+project-name/
+├─── implementation/             # Code implementation in different language
+│    └─── solution.js
+│    └─── solution.py
+│    └─── solution.java
+│    └─── solution.cpp
+├─── test_cases/                 # test cases
+│    └─── case1.txt
+│    └─── case2.txt
+└─── README.md
+```
+
+### Individual Project README Template
+
+Each project folder contains its own `README.md` structured as follows:
+
+```plaintext
+# Project Name
+
+## Problem Statement
+[Describe the problem to be solved.]
+
+## Test Cases
+| Input                  | Expected Output        |
+|------------------------|------------------------|
+| Example Input 1        | Example Output 1       |
+| Example Input 2        | Example Output 2       |
+
+## Step-by-Step Algorithm
+1. [Step 1]
+2. [Step 2]
+3. ...
+
+## Implementation
+The solution can be found in the `implementation` folder.
+
+## Key Concepts Learned
+- [Concept 1]
+- [Concept 2]
+```
 
 ---
 
