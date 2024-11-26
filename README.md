@@ -6,7 +6,7 @@ This is a collection of beginner-friendly programming projects designed to help 
 
 1. [Introduction](#introduction)
 2. [How to Use This Repository](#how-to-use-this-repository)
-3. [Project List](#project-list)
+3. [Projects](#projects)
 4. [Contributing](#contributing)
 5. [License](#license)
 
