@@ -27,8 +27,8 @@ This repository is designed for beginners to explore programming by solving prac
 1. Browse through the [Project List](#project-list) to choose a project.
 2. Open the project folder to access:
    - Problem description
-   - Algorithm
-   - Implementation
+   - Algorithms
+   - Implementations
    - Test cases
 3. Try solving the problem on your own before referring to the solution.
 4. Use the key concepts section to reinforce your learning.
@@ -79,7 +79,7 @@ Here’s a summary of all the projects with their descriptions, difficulty level
 | Alarm Clock               | Allow users to set an alarm and notify them when it’s time.                       | Medium               | 1–2 hours          | Timing Functions, Conditionals      |
 | Currency Converter        | Convert between different currencies using fixed exchange rates.                  | Medium               | 1 hour             | Arithmetic, User Input              |
 
-_This isn't the end_.
+`NB:`: _This isn't the end_.
 
 ### Folder Structure
 
@@ -87,14 +87,13 @@ Each project is organized in its own folder and follows this structure:
 
 ```
 project-name/
-├─── implementation/             # Code implementation in different language
-│    └─── solution.js
-│    └─── solution.py
-│    └─── solution.java
+├─── implementation/             # solution in different languages
 │    └─── solution.cpp
+│    └─── solution.py
+|    └─── ...
 ├─── test_cases/                 # test cases
 │    └─── case1.txt
-│    └─── case2.txt
+|    └─── ...
 └─── README.md
 ```
 
@@ -105,7 +104,7 @@ Each project folder contains its own `README.md` structured as follows:
 ```md
 # Programming Projects for Beginners
 
-[Main project description.]
+[This repository description.]
 
 ## Project Name
 
@@ -117,12 +116,14 @@ Each project folder contains its own `README.md` structured as follows:
 
 ### Test Cases
 
-| Input           | Expected Output  |
-| --------------- | ---------------- |
-| Example Input 1 | Example Output 1 |
-| Example Input 2 | Example Output 2 |
+| Case | Expected Output |
+| ---- | --------------- |
+| #1   | ....            |
+| #1   | ....            |
 
 ### Step-by-Step Algorithm
+
+[Describe Algorithms using Natural Language, Pseudocode or Flowchart]
 
 1. [Step 1]
 2. [Step 2]
