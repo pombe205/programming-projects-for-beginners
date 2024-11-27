@@ -43,7 +43,7 @@ Here’s a summary of all the projects with their descriptions, difficulty level
 
 | **Project Name**          | **Description**                                                                   | **Difficulty Level** | **Estimated Time** | **Key Concepts**                    |
 | ------------------------- | --------------------------------------------------------------------------------- | -------------------- | ------------------ | ----------------------------------- |
-| Swap Two Numbers          | Swap values of two variables without using a third variable.                      | Easy                 | 15 mins            | Variables, Arithmetic Operations    |
+| [Swap Two Numbers](./swap-numbers/README.md)          | Swap values of two variables without using a third variable.                      | Easy                 | 15 mins            | Variables, Arithmetic Operations    |
 | Number Guessing Game      | Guess a randomly generated number within a range.                                 | Easy                 | 30 mins            | Random Numbers, Loops, Conditionals |
 | Student Grading System    | Calculate a student’s grade based on their marks.                                 | Easy                 | 45 mins            | Arrays, Conditional Statements      |
 | ATM Simulator             | Simulate ATM features like balance check, withdrawal, and deposit.                | Medium               | 1–2 hours          | Functions, Loops, User Input        |
