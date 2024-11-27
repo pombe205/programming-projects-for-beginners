@@ -21,6 +21,36 @@ Write a program to swap the values of two variables using a third variable. The 
 
 Here is a step-by-step algorithm for writing the program:
 
+#### Using Natural Language
+
+1. Start the program.
+
+2. Declare variables:
+
+   - Create three variables: `a`, `b`, and `temp`.
+   - `a` and `b` will store the input numbers, while `temp` will be used for swapping.
+
+3. Take user input:
+
+   - Prompt the user to enter the first number and store it in `a`.
+   - Prompt the user to enter the second number and store it in `b`.
+
+4. Display the original values:
+
+   - Print the values of `a` and `b` before swapping.
+
+5. Swap the values:
+
+   - Assign the value of `a` to `temp`.
+   - Assign the value of `b` to `a`.
+   - Assign the value of `temp` to `b`.
+
+6. Display the swapped values:
+
+   - Print the values of `a` and `b` after swapping.
+
+7. End the program.
+
 ### Implementation
 
 The solution can be found in the `implementation` folder.
