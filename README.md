@@ -102,27 +102,38 @@ project-name/
 
 Each project folder contains its own `README.md` structured as follows:
 
-```plaintext
-# Project Name
+```md
+# Programming Projects for Beginners
 
-## Problem Statement
+[Main project description.]
+
+## Project Name
+
+[Individual project description.]
+
+### Problem Statement
+
 [Describe the problem to be solved.]
 
-## Test Cases
-| Input                  | Expected Output        |
-|------------------------|------------------------|
-| Example Input 1        | Example Output 1       |
-| Example Input 2        | Example Output 2       |
+### Test Cases
 
-## Step-by-Step Algorithm
+| Input           | Expected Output  |
+| --------------- | ---------------- |
+| Example Input 1 | Example Output 1 |
+| Example Input 2 | Example Output 2 |
+
+### Step-by-Step Algorithm
+
 1. [Step 1]
 2. [Step 2]
 3. ...
 
-## Implementation
+### Implementation
+
 The solution can be found in the `implementation` folder.
 
-## Key Concepts Learned
+### Key Concepts Learned
+
 - [Concept 1]
 - [Concept 2]
 ```
